@@ -1,0 +1,3 @@
+C:/Users/TATIANA/Documents/Personal/PUCP/ALGORITMIA/sem10_DivideyVenceras/CanarioCueva/cmake-build-debug/CMakeFiles/CanarioCueva.dir
+C:/Users/TATIANA/Documents/Personal/PUCP/ALGORITMIA/sem10_DivideyVenceras/CanarioCueva/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TATIANA/Documents/Personal/PUCP/ALGORITMIA/sem10_DivideyVenceras/CanarioCueva/cmake-build-debug/CMakeFiles/rebuild_cache.dir
