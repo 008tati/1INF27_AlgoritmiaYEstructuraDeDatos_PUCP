@@ -1,0 +1,3 @@
+C:/Users/TATIANA/Documents/Personal/PUCP/ALGORITMIA/1INF27_Soluciones/EX2_P1b_2024-2/cmake-build-debug/CMakeFiles/EX2_P1b_2024_2.dir
+C:/Users/TATIANA/Documents/Personal/PUCP/ALGORITMIA/1INF27_Soluciones/EX2_P1b_2024-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TATIANA/Documents/Personal/PUCP/ALGORITMIA/1INF27_Soluciones/EX2_P1b_2024-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
